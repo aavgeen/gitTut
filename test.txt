@@ -1,1 +1,2 @@
-this is a test document to learn git
+this is a test document to learn git.
+Now changed to commit and push agin after modification.
